@@ -1,0 +1,27 @@
+﻿  FaceFinder.cpp
+D:\CC-16projects\polyglotal\FaceFinder\FaceFinder\FaceFinder\FaceFinder.cpp(38,59): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\CC-16projects\polyglotal\FaceFinder\FaceFinder\FaceFinder\FaceFinder.cpp(39,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\CC-16projects\polyglotal\FaceFinder\FaceFinder\FaceFinder\FaceFinder.cpp(39,34): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\CC-16projects\polyglotal\FaceFinder\FaceFinder\FaceFinder\FaceFinder.cpp(40,74): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\CC-16projects\polyglotal\FaceFinder\FaceFinder\FaceFinder\FaceFinder.cpp(40,53): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  FaceFinder.vcxproj -> D:\CC-16projects\polyglotal\FaceFinder\FaceFinder\x64\Debug\FaceFinder.exe
